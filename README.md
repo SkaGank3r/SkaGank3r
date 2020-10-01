@@ -8,10 +8,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... 
 - 😄 Pronouns: ...
+- ⚡ Fun fact: I like videogames 👾
 -->
 
 
 - 🌱 I’m currently learning C#
-- 💬 Ask me about Java, X++, MySQL
+- 💬 Ask me about Java, X++, SQL
 - 📫 How to reach me: montilla2495@gmail.com
-- ⚡ Fun fact: I like videogames 👾
+
