@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C#
 - 🔭 I work as Axapta Consultant 
 - 💬 Ask me about MS Dynamics AX, SQL Server
-- 📫 How to reach me: dev.alejandro.montilla@gmail.com
 
